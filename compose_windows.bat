@@ -5,6 +5,7 @@
 :: repository.
 
 :: Usage: Place this script and a copy of composite.py
+::        (compose.py located in cleverraven repo)
 ::        into the directory of the tileset you wish to
 ::        compose and run it.
 ::        Output tileset will be in a folder named "output".
