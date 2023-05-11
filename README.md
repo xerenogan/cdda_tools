@@ -1,4 +1,4 @@
-# cdda_tools
+# cdda_tools [ARCHIVED]
 
 A collection of tools and helper scripts for cdda.
 
