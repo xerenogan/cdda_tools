@@ -1,5 +1,7 @@
 @echo off
 
+:: no args
+
 :: This is a simple shell script for compositing a CDDA tileset
 :: using the python compositing script from the cleverraven
 :: repository.
